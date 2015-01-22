@@ -4,12 +4,6 @@ Developed in C# using [Visual Studio 2013](https://www.visualstudio.com) with [.
 
 <br>
 
-> **Disclaimer :**
-
-> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
-
-<br>
-
 ### TODO
 - [ ] *Add child window, to track all the spawned ping requests*
 - [ ] *Clean up*
@@ -22,3 +16,8 @@ Developed in C# using [Visual Studio 2013](https://www.visualstudio.com) with [.
 - Gratipay [![alt text](https://img.shields.io/gratipay/AskeFC.svg "Weekly Gratipay donation")](https://gratipay.com/AskeFC)
 - Flattr [![alt text](https://api.flattr.com/button/flattr-badge-large.png "Monthly Flattr donation")](https://flattr.com/profile/Mandrake)
 
+<br>
+
+> **Disclaimer :**
+
+> If your computer implodes and sparks the armageddon, aliens eat your babysitter or you and your possesions are otherwise in any way incapacitated/damaged/hurt/etc, I can in no way be held responsible, since this code is provided as-is and it is your choice to use or ignore it.
