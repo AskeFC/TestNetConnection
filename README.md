@@ -1,6 +1,6 @@
 # TestNetConnection
 #### ([GPL 2.0](https://www.gnu.org/licenses/gpl-2.0.html))
-Developed in C# using [Visual Studio 2013](https://www.visualstudio.com) with [.Net framework 4.5.1](https://www.microsoft.com/en-us/download/details.aspx?id=42643) for Testing the internet connection on windows.
+Developed in C# using [Visual Studio 2013](https://www.visualstudio.com) with [.Net framework 4.5.1](https://www.microsoft.com/en-us/download/details.aspx?id=42643) for testing the internet connection on windows.
 
 <br>
 
